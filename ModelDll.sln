@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModelDll", "ModelDll\ModelDll.vcxproj", "{7E4FFC84-6BCB-4A48-8BB4-CE25B5AA2C53}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GstFireApiTest", "GstApiVcSample\GstFireApiTest.vcxproj", "{BC23CA94-484F-BB0C-3BA6-CBFF61AB46F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E4FFC84-6BCB-4A48-8BB4-CE25B5AA2C53}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E4FFC84-6BCB-4A48-8BB4-CE25B5AA2C53}.Debug|Win32.Build.0 = Debug|Win32
+		{7E4FFC84-6BCB-4A48-8BB4-CE25B5AA2C53}.Release|Win32.ActiveCfg = Release|Win32
+		{7E4FFC84-6BCB-4A48-8BB4-CE25B5AA2C53}.Release|Win32.Build.0 = Release|Win32
+		{BC23CA94-484F-BB0C-3BA6-CBFF61AB46F0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC23CA94-484F-BB0C-3BA6-CBFF61AB46F0}.Debug|Win32.Build.0 = Debug|Win32
+		{BC23CA94-484F-BB0C-3BA6-CBFF61AB46F0}.Release|Win32.ActiveCfg = Release|Win32
+		{BC23CA94-484F-BB0C-3BA6-CBFF61AB46F0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08BAB781-C823-4E90-A93C-974CD0F70D0C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+HKCR
+{
+	NoRemove AppID
+	{
+		{5613A05B-5916-4153-8D1A-FD13CF513E1D} = s 'GstFireApiTest'
+		'GstFireApiTest.EXE'
+		{
+			val AppID = s {5613A05B-5916-4153-8D1A-FD13CF513E1D}
+		}
+	}
+}

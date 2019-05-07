@@ -1,0 +1,19 @@
+
+	// GstFireApiTest.idl : IDL source for GstFireApiTest.exe
+//
+// This file will be processed by the MIDL tool to
+// produce the type library (GstFireApiTest.tlb) and marshalling code.
+import "oaidl.idl";
+import "ocidl.idl";
+[
+	uuid(7863A515-5F10-47BB-BA71-6F81DA556848),
+	version(1.0),
+	helpstring("GstFireApiTest 1.0 Type Library")
+]
+library GstFireApiTestLib
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+};
+
+	
